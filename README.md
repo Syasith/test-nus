@@ -2,6 +2,11 @@
 
 here is a test 
 
-## This is a smaller test 
+## This is a smaller text
+
+* item 1
+* item 2
+* item 3
+
 
 
