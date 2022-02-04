@@ -1,2 +1,7 @@
-# test-nus
-Thisi is a test repository to explore Github
+# This is a text repository
+
+here is a test 
+
+## This is a smaller test 
+
+
